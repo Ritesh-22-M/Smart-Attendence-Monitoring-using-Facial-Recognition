@@ -43,7 +43,7 @@ Hardware: Raspberry Pi, Pi Camera Module (for real-time face capture)
 
 Programming Languages: Python (for facial recognition and system logic)
 
-Facial Recognition & Detection: OpenCV, dlib, FaceNet (for accurate face tracking and verification)
+Facial Recognition & Detection: OpenCV, dlib(for accurate face tracking and verification)
 
 Machine Learning: Pre-trained models to improve detection accuracy
 
